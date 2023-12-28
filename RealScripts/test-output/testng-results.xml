@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered test URL]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on shoes]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on blue and green sneakers]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on compare list product button]]>
+    </line>
+    <line>
+      <![CDATA[Product added successfully to compare list]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43000" started-at="2023-12-28T13:05:29 IST" finished-at="2023-12-28T13:06:12 IST">
+    <groups>
+      <group name="Regression">
+        <method signature="DWS_Login005_Test.Compare()[pri:0, instance:TestScripts.DWS_Login005_Test@27808f31]" name="Compare" class="TestScripts.DWS_Login005_Test"/>
+      </group> <!-- Regression -->
+      <group name="Smoke">
+        <method signature="DWS_Login005_Test.Compare()[pri:0, instance:TestScripts.DWS_Login005_Test@27808f31]" name="Compare" class="TestScripts.DWS_Login005_Test"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test name="Default test" duration-ms="43000" started-at="2023-12-28T13:05:29 IST" finished-at="2023-12-28T13:06:12 IST">
+      <class name="TestScripts.DWS_Login005_Test">
+        <test-method status="PASS" signature="Compare()[pri:0, instance:TestScripts.DWS_Login005_Test@27808f31]" name="Compare" duration-ms="42838" started-at="2023-12-28T13:05:29 IST" finished-at="2023-12-28T13:06:12 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered test URL]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on shoes]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on blue and green sneakers]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on compare list product button]]>
+            </line>
+            <line>
+              <![CDATA[Product added successfully to compare list]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Compare -->
+      </class> <!-- TestScripts.DWS_Login005_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
